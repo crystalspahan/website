@@ -1,0 +1,54 @@
+/* website styles*/
+* {
+  font-size: 100%;
+}
+
+body {
+  background-image: url('images/folk-pattern.png');
+  color: purple;
+  font-family: 'helvetica', cursive;
+  text-align: center
+}
+
+section {
+  color: purple;
+}
+
+h1 {
+  font-family: helvetica;
+  font-size: 45px;
+}
+
+h2 {
+  font-family: helvetica;
+  font-size: 35px;
+}
+
+p {
+  font-family: 'Fascinate Inline', cursive;
+  font-size: 25px
+}
+
+.box {.dream
+  height: 250px;
+  background-image: url(images/dream.jpg);
+  background-size: center;
+  background-position: bottom center;
+}
+
+.banner {
+  height: 350px;
+  background-image: url('images/music (Small).jpg');
+  background-position: center;
+}
+
+a:hover {
+  text-decoration: underline;
+  background-color: black;
+  font-weight: bold;
+}
+
+a {
+  color: purple;
+  text-decoration: none;
+}
